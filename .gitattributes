@@ -1,2 +1,25 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kaospilot toolkit</title>
+  </head>
+  <body>
+    <header>
+      <a href="https://en.wikipedia.org/wiki/Kaospilot">
+        <img src="kaospilot_logo.png" alt="Kaospilot Logo" width="100" height="100" style="float: left;">
+      </a>
+    
+      <p>Check out our collection of tools and methods for your team or organization! <br>
+   Collaborate better, generate new ideas, create an inclusive space, dive into deep conversations & reflections ... and more!</p>
+    </header>
+   
+  </body>
+</html>
+
+
+
+
+
+
